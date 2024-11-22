@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🔭 I’m currently working on AlaToo H/A projects
+💬 Ask me about math and I will try to help you!
+📫 How to reach me: sanjar.usenov@alatoo.edu.kg
+
 <!--
 **jarnovs/jarnovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
